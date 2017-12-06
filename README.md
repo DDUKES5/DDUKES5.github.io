@@ -1,2 +1,2 @@
 
-How to live a good life.
+How to live a good lifes.
