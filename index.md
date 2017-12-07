@@ -1,6 +1,14 @@
 ## Welcome to the world of
 <img src="https://i.ytimg.com/vi/G5Ipr0KZ3NE/hqdefault.jpg">
 
+<nav>
+  <ul>
+    <li><a href="https://reddit.com">Reddit</a></li>
+    <li><a href="#">Menu</a></li>
+    <li><a href="#">Links</a></li>
+  </ul>
+</nav>
+
 You use the [editor on GitHub](https://github.com/DDUKES5/DDUKES5.github.io/edit/master/index.md) to maintain and preview the content for your website in Markdown files.
 
 Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
