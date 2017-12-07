@@ -1,5 +1,5 @@
 ## Welcome to the world of
-![https://i.ytimg.com/vi/G5Ipr0KZ3NE/hqdefault.jpg](src)
+![https://i.ytimg.com/vi/G5Ipr0KZ3NE/hqdefault.jpg](url)
 
 You can use the [editor on GitHub](https://github.com/DDUKES5/DDUKES5.github.io/edit/master/index.md) to maintain and preview the content for your website in Markdown files.
 
@@ -12,9 +12,9 @@ Markdown is a lightweight and easy-to-use syntax for styling your writing. It in
 ```markdown
 Syntax highlighted code block
 
-# Header 1
-## Header 2
-### Header 3
+# Header 
+## Header
+### Header
 
 - Bulleted
 - List
