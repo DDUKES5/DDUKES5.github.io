@@ -4,7 +4,7 @@
 <nav>
   <ul>
     <li><a href="https://reddit.com">Reddit</a></li>
-    <li><a href="https://DDUKES5.github.io/cats.md">Menu</a></li>
+    <li><a href="https://DDUKES5.github.io/dogs.md">Menu</a></li>
     <li><a href="#">Links</a></li>
   </ul>
 </nav>
