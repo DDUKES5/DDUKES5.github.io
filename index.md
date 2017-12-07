@@ -1,4 +1,4 @@
-## Welcome to GitHub
+## Welcome to the world of
 
 You can use the [editor on GitHub](https://github.com/DDUKES5/DDUKES5.github.io/edit/master/index.md) to maintain and preview the content for your website in Markdown files.
 
