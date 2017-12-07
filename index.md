@@ -1,5 +1,5 @@
 ## Welcome to the world of
-**![https://i.ytimg.com/vi/G5Ipr0KZ3NE/hqdefault.jpg](url)**
+<a href="https://i.ytimg.com/vi/G5Ipr0KZ3NE/hqdefault.jpg"><img src="C:\Users\Geoff\Pictures\hqdefault.jpg" title="https://i.ytimg.com/vi/G5Ipr0KZ3NE/hqdefault.jpg" width="600" height="400" /></a>
 
 You use the [editor on GitHub](https://github.com/DDUKES5/DDUKES5.github.io/edit/master/index.md) to maintain and preview the content for your website in Markdown files.
 
