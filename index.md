@@ -1,5 +1,5 @@
-## Welcome to the world of
-<img src="https://i.ytimg.com/vi/G5Ipr0KZ3NE/hqdefault.jpg">
+## WELCOME TO THE WORLD OF ROBOTS
+<img src="https://media.wired.com/photos/599cbdf191885f7b084d37f7/1:1/w_2094,c_limit/Robot-Video.jpg">
 
 <nav>
   <ul>
