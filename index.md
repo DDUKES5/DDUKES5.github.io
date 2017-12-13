@@ -1,17 +1,15 @@
-## WELCOME TO THE WORLD OF ROBOTS
+# WELCOME TO THE WORLD OF ROBOTS
 <img src="https://media.wired.com/photos/599cbdf191885f7b084d37f7/1:1/w_2094,c_limit/Robot-Video.jpg">
-
+# Major Robot Devlopers
 <nav>
   <ul>
-    <li><a href="https://reddit.com">Reddit</a></li>
-    <li><a href="https://DDUKES5.github.io/dogs.md">Menu</a></li>
-    <li><a href="#">Links</a></li>
+    <li><a href="https://3dr.com/">3D Robotics</a></li>
+    <li><a href="https://www.jibo.com/">Jibo</a></li>
+    <li><a href="http://www.irobot.com/"> iRobot</a></li>
   </ul>
 </nav>
 
-You use the [editor on GitHub](https://github.com/DDUKES5/DDUKES5.github.io/edit/master/index.md) to maintain and preview the content for your website in Markdown files.
-
-Welcome to the world of robots this website will assess the integration of robot into are daily life. This website will get the feedback of everyday Americans to better evaluate what is best for all Americans. We will track progress and relay the information to the public of all major developments 
+[editor on GitHub](https://github.com/DDUKES5/DDUKES5.github.io/edit/master/index.md)Welcome to the world of robots this website will assess the integration of robot into are daily life. This website will get the feedback of everyday Americans to better evaluate what is best for all Americans. We will track progress and relay the information to the public of all major developments. 
 ```markdown
 Syntax highlighted code block
 
