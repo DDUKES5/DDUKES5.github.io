@@ -25,7 +25,7 @@ Syntax highlighted code block
 
 [Link](url) and ![Image](src)
 ```
-[bio](https://www.google.co.jp/?gfe_rd=cr&dcr=0&ei=LewwWsHROYuQzAKmx5-IDw)
+[bio](CATS)
 For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
 
 ### Jekyll Themes
