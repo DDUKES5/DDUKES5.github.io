@@ -14,7 +14,7 @@
 Syntax highlighted code block
 <nav>
   <ul>
-   <li><a href="#">bio</a></li>
+    <li><a href="https://www.google.co.jp/?gfe_rd=cr&dcr=0&ei=LewwWsHROYuQzAKmx5-IDw">bio</a></li>
    </ul>
 </nav>
 
