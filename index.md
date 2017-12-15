@@ -1,6 +1,6 @@
 # ASSIGNMENT 3
 <img src="https://www.shadygrove.umd.edu/sites/default/files/u81/academic-partner/logo/umuc-logo_updated_1.4.17.png">
-# Major Robot Devlopers
+# CONCEPTS AND APPLICATIONS OF INFORMATION TECHNOLOGY
 
 
 ```markdown
