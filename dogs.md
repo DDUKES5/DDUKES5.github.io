@@ -9,33 +9,14 @@
   </ul>
 </nav>
 
-Welcome to the world of robots this website will assess the integration of robot into are daily life. This website will get the feedback of everyday Americans to better evaluate what is best for all Americans. We will track progress and relay the information to the public of all major developments. 
-```markdown
-Syntax highlighted code block
+Robots has all was been a growing development that is often question by consumers what is the limit to technology. This make people skeptical about the future asking themselves will the cause a Skynet like effect for mankind. Other people are all for the push for robots to make life easier and gives endless possibilities to what we can accomplish.
 
-[Video](https://www.wired.com/video/hardwired-so-what-is-a-robot-really via @wired)
+This can help people with missing limbs to live a normal life with no dependency. While making now possibilities for health care. We have thing like sir and Alexa that think that respond to your commands. They grow and adapts to what you say. This is scary to some people not know the boundary of the technology. This calls uncertainties with how the robot will move forward this ability to adapted.
 
-- Bulleted
-- List
 
-1. Numbered
-2. List
-
-**Bold** and _Italic_ and `Code` text
-
-[Link](url) and ![Image](src)
-```
-[bio](Biography)
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
 
 [Video](https://www.wired.com/video/hardwired-so-what-is-a-robot-really)
 
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/DDUKES5/DDUKES5.github.io/settings). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
 
-### Support or Contact
-
-
-
-Having trouble with Pages? Check out our [documentation](https://help.github.com/categories/github-pages-basics/) or [contact support](https://github.com/contact) and we’ll help you sort it out.
 
 [HOME](index)
