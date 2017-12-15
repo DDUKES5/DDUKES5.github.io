@@ -8,9 +8,7 @@ Syntax highlighted code block
 
 
 
-- Bulleted
 
-```
 [Biography](Biography)
 
 [Assignment](dogs)
