@@ -2,13 +2,6 @@
 ## Devaughn S. Dukes
 <img src="https://scontent-nrt1-1.xx.fbcdn.net/v/t1.0-9/25354096_1446370028793813_1164069433581385354_n.jpg?oh=ac69d171bfd3519ee2b4cc401c4d57d6&oe=5A89B86E">
 
-<nav>
-  <ul>
-    <li><a href="https://reddit.com">Reddit</a></li>
-    <li><a href="https://DDUKES5.github.io/cats.md">Menu</a></li>
-    <li><a href="#">Links</a></li>
-  </ul>
-</nav>
 
 [editor on GitHub](https://github.com/DDUKES5/DDUKES5.github.io/edit/master/index.md) 
 About:
