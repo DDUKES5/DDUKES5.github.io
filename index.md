@@ -1,5 +1,5 @@
 # WELCOME TO THE WORLD OF ROBOTS
-<img src="https://media.wired.com/photos/599cbdf191885f7b084d37f7/1:1/w_2094,c_limit/Robot-Video.jpg">
+<img src="https://www.shadygrove.umd.edu/sites/default/files/u81/academic-partner/logo/umuc-logo_updated_1.4.17.png">
 # Major Robot Devlopers
 <nav>
   <ul>
@@ -16,25 +16,9 @@ Syntax highlighted code block
 
 
 - Bulleted
-- List
 
-1. Numbered
-2. List
-
-**Bold** and _Italic_ and `Code` text
-
-[Link](url) and ![Image](src)
 ```
-[bio](Biography)
+[Biography](Biography)
 
-[Assigment](dogs)
+[Assignment](dogs)
 
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
-
-### Jekyll Themes
-
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/DDUKES5/DDUKES5.github.io/settings). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
-
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://help.github.com/categories/github-pages-basics/) or [contact support](https://github.com/contact) and we’ll help you sort it out.
