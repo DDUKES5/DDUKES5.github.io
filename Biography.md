@@ -1,4 +1,4 @@
-# Biography
+# BIOGRAPHY
 ## Devaughn S. Dukes
 <img src="https://scontent-nrt1-1.xx.fbcdn.net/v/t1.0-9/25354096_1446370028793813_1164069433581385354_n.jpg?oh=ac69d171bfd3519ee2b4cc401c4d57d6&oe=5A89B86E">
 
