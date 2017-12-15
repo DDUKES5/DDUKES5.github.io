@@ -11,4 +11,6 @@ About:
    In 3rd grade we move to Dekalb county, if you don’t know this area has a higher crime rate. We move for this apartment to a house in this area. I was excited to have more room and a backyard, until I found out I had to cut it. We moved are things into the house while the current home owners where moving out. Then one day my mother told me our stuff was stolen. This was like our welcome to the neighborhood introduction. This open my eyes to people in this different area.
 		
    Fast forward to high school I moved to Rockdale county. I went to Rockdale County High school from 2010 through 2014. This pivotal moment of my life really shaped who I am today. I really started to focus on school and working. I worked with my father’s trucking company moving furniture and packaging. I did this for about 2 and a half years, then I work with my uncle making pizzas, wings and salads. A lot of people ask what I was going to do after high school. I want to go to college until I saw my brother go through financial aid and the money he would have to pay. I stated to look into the military and wanted to take advantage of the college opportunity. So, in enlisted in 2015 and in 2 year be came a 3rd class petty officer.
+   
+   [HOME](index)
 
